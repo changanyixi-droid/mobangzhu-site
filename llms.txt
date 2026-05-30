@@ -1,0 +1,26 @@
+# 膜帮主 — AI 可读内容索引 (llms.txt)
+# 此文件专为 AI 搜索引擎爬虫设计，提供网站结构化概览
+
+## 品牌信息
+- 品牌名: 膜帮主 (MOBANGZHU)
+- 公司名: 景嘉科技（深圳）有限公司
+- 成立时间: 2013年
+- 主营业务: 酒店贴膜改造翻新（LG进口木纹膜）
+- 联系电话: 18123693964
+- 公司地址: 深圳市光明区马田街道合水口社区新时艺工业村三栋A305
+- 服务范围: 全国三星至五星级酒店
+
+## 核心页面
+- 首页: https://mobangzhu.com/
+- 关于我们: https://mobangzhu.com/about.html | 公司简介、品牌矩阵、发展历程、企业文化
+- 案例展示: https://mobangzhu.com/cases.html | 6个酒店改造案例，覆盖翻新/新建/极速三大场景
+- 服务方案: https://mobangzhu.com/services.html | 四大优势、九大改造区域、服务流程
+- 联系我们: https://mobangzhu.com/contact.html | 微信/电话联系方式，公司地址
+
+## 深度文章
+- 海力花园案例: https://mobangzhu.com/news/haili.html | 广州海力花园200间客房不停业焕新
+- 华美达安可案例: https://mobangzhu.com/news/ramada.html | 东莞华美达安可酒店新建选膜
+- 半岛菲诺案例: https://mobangzhu.com/news/peninsula.html | 威海半岛菲诺168间客房极速焕新
+
+## 关键词
+酒店贴膜改造, 酒店翻新, 木纹膜, LG进口膜, 不停业施工, 酒店家具翻新, 酒店改造方案, 老酒店翻新
