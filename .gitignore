@@ -1,0 +1,6 @@
+# Large image files (keep small ones in git, use LFS for large ones)
+*.pdf
+*.zip
+images/haihaosi/
+.DS_Store
+Thumbs.db
